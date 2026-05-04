@@ -57,7 +57,7 @@ This tool redesigns that workflow into a **safe, automated, and reusable system*
 
 
 ## 📦 Project Structure
-
+```text
 NIC-image-deployment-tool/
 ├── main.py
 ├── pyproject.toml
